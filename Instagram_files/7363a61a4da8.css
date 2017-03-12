@@ -1130,7 +1130,7 @@ html.touch .pressed.button-disabled {
 
 .button-pulldown b, .card-info .button b {
   padding-right: 14px;
-  background: url("/static/images/glyphs/arrow-down-small.png/e63eefad276b.png") no-repeat 100% 50%; }
+  background: url("https://www.instagram.com/static/images/glyphs/arrow-down-small.png/e63eefad276b.png") no-repeat 100% 50%; }
 
 .button-light, .card-info .button, .resumator-forward-button {
   background-color: #fff;
@@ -1304,12 +1304,12 @@ body.thirdparty .root {
   border-bottom-color: rgba(4, 40, 71, 0.8);
   box-shadow: 0 1px 0 rgba(111, 151, 182, 0.5) inset, 0 -1px 0 rgba(111, 151, 182, 0.2) inset, 0px 1px 1px rgba(0, 0, 0, 0.2);
   background-color: #517fa4;
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#517fa4), to(#306088));
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #517fa4, #306088);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #517fa4, #306088);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #517fa4, #306088);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #517fa4, #306088);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #517fa4, #306088);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#517fa4), to(#306088));
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #517fa4, #306088);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #517fa4, #306088);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #517fa4, #306088);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #517fa4, #306088);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #517fa4, #306088);
   background-position: 50% 50%;
   z-index: 100; }
   .top-bar hgroup {
@@ -1318,7 +1318,7 @@ body.thirdparty .root {
   .top-bar .logo {
     height: 35px;
     width: 97px;
-    background: url("/static/images/shared/shared-assets.png/1e2eddff9a25.png") no-repeat 0 4px;
+    background: url("https://www.instagram.com/static/images/shared/shared-assets.png/1e2eddff9a25.png") no-repeat 0 4px;
     position: absolute;
     top: 4px;
     margin: 0;
@@ -1336,16 +1336,16 @@ body.thirdparty .root {
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .top-bar {
     background-color: #517fa4;
-    background-image: url("/static/images/shared/noise-2.png/a8ebea8286c6.png"), -webkit-gradient(linear, left top, left bottom, from(#517fa4), to(#306088));
-    background-image: url("/static/images/shared/noise-2.png/a8ebea8286c6.png"), -webkit-linear-gradient(top, #517fa4, #306088);
-    background-image: url("/static/images/shared/noise-2.png/a8ebea8286c6.png"), -moz-linear-gradient(top, #517fa4, #306088);
-    background-image: url("/static/images/shared/noise-2.png/a8ebea8286c6.png"), -o-linear-gradient(top, #517fa4, #306088);
-    background-image: url("/static/images/shared/noise-2.png/a8ebea8286c6.png"), -ms-linear-gradient(top, #517fa4, #306088);
-    background-image: url("/static/images/shared/noise-2.png/a8ebea8286c6.png"), linear-gradient(to bottom, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-2.png/a8ebea8286c6.png"), -webkit-gradient(linear, left top, left bottom, from(#517fa4), to(#306088));
+    background-image: url("https://www.instagram.com/static/images/shared/noise-2.png/a8ebea8286c6.png"), -webkit-linear-gradient(top, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-2.png/a8ebea8286c6.png"), -moz-linear-gradient(top, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-2.png/a8ebea8286c6.png"), -o-linear-gradient(top, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-2.png/a8ebea8286c6.png"), -ms-linear-gradient(top, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-2.png/a8ebea8286c6.png"), linear-gradient(to bottom, #517fa4, #306088);
     background-position: 50% 50%;
     background-size: "30px 20px, auto"; }
     .top-bar .logo {
-      background-image: url("/static/images/shared/shared-assets@2x.png/896896393814.png");
+      background-image: url("https://www.instagram.com/static/images/shared/shared-assets@2x.png/896896393814.png");
       background-size: 150px 600px; } }
 
 .top-bar-new {
@@ -1388,9 +1388,9 @@ body.thirdparty .root {
     height: 44px !important;
     width: 44px !important;
     margin: 0 !important;
-    background: url("/static/images/shared/shared-assets.png/1e2eddff9a25.png") no-repeat 6px -194px; }
+    background: url("https://www.instagram.com/static/images/shared/shared-assets.png/1e2eddff9a25.png") no-repeat 6px -194px; }
   .top-bar-home:hover {
-    background: url("/static/images/alpha/fff_10.png/9823b55df601.png");
+    background: url("https://www.instagram.com/static/images/alpha/fff_10.png/9823b55df601.png");
     background: rgba(255, 255, 255, 0.1); }
   .top-bar-home:active {
     background-color: #1c5380;
@@ -1399,7 +1399,7 @@ body.thirdparty .root {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .top-bar-home i {
-    background-image: url("/static/images/shared/shared-assets@2x.png/896896393814.png");
+    background-image: url("https://www.instagram.com/static/images/shared/shared-assets@2x.png/896896393814.png");
     background-size: 150px 600px; } }
 
 .page-footer {
@@ -1452,7 +1452,7 @@ body.thirdparty .root {
         width: 28px;
         margin: -5px 4px 0 -8px; }
       .top-bar-actions > li > a:hover {
-        background: url("/static/images/alpha/fff_10.png/9823b55df601.png");
+        background: url("https://www.instagram.com/static/images/alpha/fff_10.png/9823b55df601.png");
         background: rgba(255, 255, 255, 0.1);
         border-right-color: rgba(0, 0, 0, 0.15); }
       .top-bar-actions > li > a:active, .top-bar-actions > li > a.link-active,
@@ -1469,9 +1469,9 @@ body.thirdparty .root {
       width: 24px;
       height: 24px; }
   .top-bar-actions .link-signin i {
-    background: url("/static/images/shared/glyph-assets.png/65866ccb7550.png") no-repeat 2px 3px; }
+    background: url("https://www.instagram.com/static/images/shared/glyph-assets.png/65866ccb7550.png") no-repeat 2px 3px; }
   .top-bar-actions .link-settings i {
-    background: url("/static/images/shared/glyph-assets.png/65866ccb7550.png") no-repeat 3px -196px; }
+    background: url("https://www.instagram.com/static/images/shared/glyph-assets.png/65866ccb7550.png") no-repeat 3px -196px; }
 
 .account-state {
   position: absolute;
@@ -1495,7 +1495,7 @@ body.thirdparty .root {
       right: 13px;
       height: 10px;
       width: 13px;
-      background: url("/static/images/shared/dropdown-arrow.png/4f584371fcde.png") no-repeat 0 0; }
+      background: url("https://www.instagram.com/static/images/shared/dropdown-arrow.png/4f584371fcde.png") no-repeat 0 0; }
     .account-state .dropdown ul {
       min-width: 150px; }
 
@@ -1520,7 +1520,7 @@ body.thirdparty .root {
     display: none; }
   .dropdown ul.dropdownOptionList,
   .dropdown ul {
-    background: #eee url("/static/images/bg/white-gradient-300px.png/0fa8165a3b27.png") repeat-x 0 0;
+    background: #eee url("https://www.instagram.com/static/images/bg/white-gradient-300px.png/0fa8165a3b27.png") repeat-x 0 0;
     background-color: rgba(255, 255, 255, 0.3);
     border-radius: 3px;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95), 0 1px 8px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.08);
@@ -1548,7 +1548,7 @@ body.thirdparty .root {
       /* Add .dropdownLinkHover if extra specificity is needed. */ }
       .dropdown li a:hover.dropdownLinkHover, .dropdown li a:hover {
         border: 1px solid #eee;
-        background: #999 url("/static/images/bg/white-gradient-300px.png/0fa8165a3b27.png") repeat-x 50% 50%;
+        background: #999 url("https://www.instagram.com/static/images/bg/white-gradient-300px.png/0fa8165a3b27.png") repeat-x 50% 50%;
         box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9); }
       html.touch .dropdown li a:hover, .dropdown li a:active {
         border: 1px solid #ddd;
@@ -1568,7 +1568,7 @@ body.thirdparty .root {
     height: 10px;
     width: 13px;
     z-index: 10;
-    background: url("/static/images/shared/glyph-assets.png/65866ccb7550.png") no-repeat -1px -800px; }
+    background: url("https://www.instagram.com/static/images/shared/glyph-assets.png/65866ccb7550.png") no-repeat -1px -800px; }
   .dropdown i.right {
     left: auto;
     right: 10px; }
@@ -1706,7 +1706,7 @@ body.thirdparty .root {
     transform: translate3d(0,0,0); }
   .account-state .link-signin i,
   .account-state .link-settings i {
-    background-image: url("/static/images/shared/glyph-assets@2x.png/a31074f530b7.png");
+    background-image: url("https://www.instagram.com/static/images/shared/glyph-assets@2x.png/a31074f530b7.png");
     background-size: 150px 1700px; }
   .dropdown {
     -webkit-transform: translate3d(0, 0, 0);
@@ -1770,12 +1770,12 @@ body.thirdparty .root {
     margin: -1px -1px 0;
     border: 1px solid #1c5380;
     background-color: #517fa4;
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#517fa4), to(#306088));
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #517fa4, #306088);
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #517fa4, #306088);
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #517fa4, #306088);
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #517fa4, #306088);
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#517fa4), to(#306088));
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #517fa4, #306088);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #517fa4, #306088);
     background-position: 50% 50%;
     border-radius: 4px 4px 0 0;
     box-shadow: 0 1px 0 rgba(111, 151, 182, 0.7) inset; }
@@ -1955,7 +1955,7 @@ body.thirdparty .root {
   color: #a4baca; }
 
 body.sidebar-page {
-  background: #fff url("/static/images/bg/body_split.jpg/4cf78eab2160.jpg") repeat-y 49.9% 50%; }
+  background: #fff url("https://www.instagram.com/static/images/bg/body_split.jpg/4cf78eab2160.jpg") repeat-y 49.9% 50%; }
   body.sidebar-page .root {
     min-height: 1000px; }
   body.sidebar-page .wrapper {
@@ -1980,7 +1980,7 @@ body.sidebar-page {
   float: left;
   height: 100%;
   margin: 0 0 0 -17px;
-  background: #eef2f5 url("/static/images/bg/blue-noisy.jpg/c8d5bcc4ef0d.jpg") repeat 50% 50%; }
+  background: #eef2f5 url("https://www.instagram.com/static/images/bg/blue-noisy.jpg/c8d5bcc4ef0d.jpg") repeat 50% 50%; }
   .sidebar-nav .sidebar-content {
     padding-top: 50px;
     margin: -1px 0 0 -1px; }
@@ -2014,14 +2014,14 @@ body.sidebar-page {
   .index-nav > ul > li {
     position: relative;
     margin: 0;
-    background: #f9f9f9 url("/static/images/bg/white-gradient-light-context-50px.png/42778b73b89b.png") repeat-x 0 0; }
+    background: #f9f9f9 url("https://www.instagram.com/static/images/bg/white-gradient-light-context-50px.png/42778b73b89b.png") repeat-x 0 0; }
     .sidebar-content > ul > li a,
     .index-nav > ul > li a {
       position: relative;
       display: block;
       padding: 9px 5px 10px 15px;
       border-bottom: 1px solid #c3cfd9;
-      background: url("/static/images/shared/nav-shadow.png/a1cc027b10ce.png") repeat-y 100% 0; }
+      background: url("https://www.instagram.com/static/images/shared/nav-shadow.png/a1cc027b10ce.png") repeat-y 100% 0; }
       .sidebar-content > ul > li a, .sidebar-content > ul > li a:visited, .sidebar-content > ul > li a:hover,
       .index-nav > ul > li a,
       .index-nav > ul > li a:visited,
@@ -2044,7 +2044,7 @@ body.sidebar-page {
       display: block;
       width: 7px;
       height: 13px;
-      background: url("/static/images/shared/nav-arrow.png/d71063480e46.png") no-repeat 0 0;
+      background: url("https://www.instagram.com/static/images/shared/nav-arrow.png/d71063480e46.png") no-repeat 0 0;
       opacity: 0.5;
       -webkit-transition: margin-right 0.1s ease-out, opacity 0.1s ease-out;
       -moz-transition: margin-right 0.1s ease-out, opacity 0.1s ease-out;
@@ -2061,7 +2061,7 @@ body.sidebar-page {
       width: 9px;
       height: 17px;
       margin: 0 -2px 0 0;
-      background: url("/static/images/shared/nav-active-arrow.png/fba88afff633.png") no-repeat 0 0;
+      background: url("https://www.instagram.com/static/images/shared/nav-active-arrow.png/fba88afff633.png") no-repeat 0 0;
       opacity: 1 !important; }
   .sidebar-content > ul > li.active > a,
   .index-nav > ul > li.active > a {
@@ -2127,7 +2127,7 @@ body.sidebar-page {
   .index-nav b {
     width: 265px;
     padding-right: 40px;
-    background: url("/static/images/shared/three-dots.png/54b421c4d294.png") no-repeat 100% 0; }
+    background: url("https://www.instagram.com/static/images/shared/three-dots.png/54b421c4d294.png") no-repeat 100% 0; }
   .index-nav .description {
     width: 330px;
     white-space: nowrap;
@@ -2267,12 +2267,12 @@ body.sidebar-page {
               width: 22px;
               height: 22px;
               margin-right: 8px;
-              background: url("/static/images/glyphs/disclosure-down@2x.png/970bdcaa6ff1.png") no-repeat center;
+              background: url("https://www.instagram.com/static/images/glyphs/disclosure-down@2x.png/970bdcaa6ff1.png") no-repeat center;
               background-size: 14px 14px; }
         .main .sidebar .sidebar-nav .sidebar-content ul {
           display: none; }
           .main .sidebar .sidebar-nav .sidebar-content ul li {
-            background: url("/static/images/glyphs/arrow-right.png/064cfd1e1d20.png") no-repeat 14px 13px;
+            background: url("https://www.instagram.com/static/images/glyphs/arrow-right.png/064cfd1e1d20.png") no-repeat 14px 13px;
             background-size: 14px 14px; }
             .main .sidebar .sidebar-nav .sidebar-content ul li ul {
               list-style: none; }
@@ -2281,7 +2281,7 @@ body.sidebar-page {
             .main .sidebar .sidebar-nav .sidebar-content ul li a {
               padding-left: 40px; }
             .main .sidebar .sidebar-nav .sidebar-content ul li.active {
-              background-image: url("/static/images/glyphs/here.png/3077de108079.png"); }
+              background-image: url("https://www.instagram.com/static/images/glyphs/here.png/3077de108079.png"); }
               .main .sidebar .sidebar-nav .sidebar-content ul li.active a {
                 background: none; }
               .main .sidebar .sidebar-nav .sidebar-content ul li.active i.disclosure {
@@ -2322,7 +2322,7 @@ body.sidebar-page {
     padding: 0 10px; } }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
-  background-image: url("/static/images/shared/nav-arrow@2x.png/87cc4d757203.png");
+  background-image: url("https://www.instagram.com/static/images/shared/nav-arrow@2x.png/87cc4d757203.png");
   background-size: 7px 13px; }
 
 [class^="icon-"],
@@ -2332,7 +2332,7 @@ body.sidebar-page {
   height: 14px;
   line-height: 14px;
   vertical-align: text-top;
-  background-image: url("/static/images/glyphs/glyphicons-halflings.png/531d4b607365.png");
+  background-image: url("https://www.instagram.com/static/images/glyphs/glyphicons-halflings.png/531d4b607365.png");
   background-position: 14px 14px;
   background-repeat: no-repeat;
   margin-right: 8px;
@@ -2349,7 +2349,7 @@ body.sidebar-page {
   *margin-left: 0; }
 
 .icon-white {
-  background-image: url("/static/images/glyphs/glyphicons-halflings-white.png/11118ae8db79.png"); }
+  background-image: url("https://www.instagram.com/static/images/glyphs/glyphicons-halflings-white.png/11118ae8db79.png"); }
 
 .icon-glass {
   background-position: 0      0; }
@@ -2815,7 +2815,7 @@ h1, h2, h3 {
     font-weight: 600; }
 
 body {
-  background: url("/static/images/bg/body_noise.png/57bcab2a762d.png") repeat 50% 50%; }
+  background: url("https://www.instagram.com/static/images/bg/body_noise.png/57bcab2a762d.png") repeat 50% 50%; }
 
 .main {
   padding-bottom: 0; }
@@ -2848,12 +2848,12 @@ body {
   position: relative;
   height: 565px;
   background-color: #101010;
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#101010), to(#1a1a1a));
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #101010, #1a1a1a);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #101010, #1a1a1a);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #101010, #1a1a1a);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #101010, #1a1a1a);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #101010, #1a1a1a);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#101010), to(#1a1a1a));
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #101010, #1a1a1a);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #101010, #1a1a1a);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #101010, #1a1a1a);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #101010, #1a1a1a);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #101010, #1a1a1a);
   background-position: 50% 50%;
   margin: 0; }
 
@@ -2868,12 +2868,12 @@ body {
   margin-bottom: -1px;
   box-shadow: inset 0 1px 0 #585858;
   background-color: #444;
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#444), to(#333));
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #444, #333);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #444, #333);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #444, #333);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #444, #333);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #444, #333);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#444), to(#333));
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #444, #333);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #444, #333);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #444, #333);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #444, #333);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #444, #333);
   background-position: 50% 50%; }
   .features-nav ul {
     position: absolute;
@@ -2922,7 +2922,7 @@ body {
     background-position: -299px 1px; }
   .features-nav .active,
   .features-nav .active:hover {
-    background: #181818 url("/static/images/shared/noise-1.png/aae6cb061f08.png");
+    background: #181818 url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png");
     height: 71px;
     margin-top: -1px;
     box-shadow: none; }
@@ -2953,12 +2953,12 @@ body {
   z-index: 10;
   margin-right: -465px;
   background-color: #5380a5;
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#5380a5), to(#2b5b83));
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #5380a5, #2b5b83);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #5380a5, #2b5b83);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #5380a5, #2b5b83);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #5380a5, #2b5b83);
-  background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #5380a5, #2b5b83);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#5380a5), to(#2b5b83));
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #5380a5, #2b5b83);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #5380a5, #2b5b83);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #5380a5, #2b5b83);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #5380a5, #2b5b83);
+  background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #5380a5, #2b5b83);
   background-position: 50% 50%;
   box-shadow: inset 0 1px 0 #5b91bc, inset -1px 0 rgba(255, 255, 255, 0.15), inset 1px 0 0 rgba(255, 255, 255, 0.15);
   border: 1px solid #000;
@@ -2966,12 +2966,12 @@ body {
   text-indent: -9999em; }
   .appstore-cta:hover {
     background-color: #5b88ac;
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#5b88ac), to(#2f638f));
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #5b88ac, #2f638f);
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #5b88ac, #2f638f);
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #5b88ac, #2f638f);
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #5b88ac, #2f638f);
-    background-image: url("/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #5b88ac, #2f638f);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-gradient(linear, left top, left bottom, from(#5b88ac), to(#2f638f));
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -webkit-linear-gradient(top, #5b88ac, #2f638f);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -moz-linear-gradient(top, #5b88ac, #2f638f);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -o-linear-gradient(top, #5b88ac, #2f638f);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), -ms-linear-gradient(top, #5b88ac, #2f638f);
+    background-image: url("https://www.instagram.com/static/images/shared/noise-1.png/aae6cb061f08.png"), linear-gradient(to bottom, #5b88ac, #2f638f);
     background-position: 50% 50%; }
   .appstore-cta a {
     display: block;
@@ -3112,7 +3112,7 @@ body {
     margin-bottom: -50px; } }
 
 .jobs-header {
-  background: #ccc url("/static/images/jobs/header-photo.jpg/ff71d11e000b.jpg") no-repeat 50% 50%;
+  background: #ccc url("https://www.instagram.com/static/images/jobs/header-photo.jpg/ff71d11e000b.jpg") no-repeat 50% 50%;
   margin: 25px 0 0;
   padding: 20px 40px 20px;
   border-radius: 5px; }
@@ -3322,14 +3322,14 @@ body {
   position: relative;
   margin: 0;
   padding: 0 0 30px !important;
-  background: url("/static/images/badges/badges-header-bg.png/38ef8dfdb791.png") no-repeat 100% 100%; }
+  background: url("https://www.instagram.com/static/images/badges/badges-header-bg.png/38ef8dfdb791.png") no-repeat 100% 100%; }
   .page-accounts .badgeHeader i {
     position: absolute;
     right: 0;
     bottom: 0;
     width: 298px;
     height: 94px;
-    background: url("/static/images/badges/badges-header-icons.png/da6e08bf1f4c.png") no-repeat 0 0;
+    background: url("https://www.instagram.com/static/images/badges/badges-header-icons.png/da6e08bf1f4c.png") no-repeat 0 0;
     opacity: 0.5; }
 
 .page-accounts #badgeSteps {
@@ -3340,11 +3340,11 @@ body {
 .page-accounts .badgesCustom {
   position: relative;
   padding: 20px 0 40px 0;
-  background: url("/static/images/badges/badges-footer-bg.png/96d1200a1fcb.png") no-repeat 100% 0; }
+  background: url("https://www.instagram.com/static/images/badges/badges-footer-bg.png/96d1200a1fcb.png") no-repeat 100% 0; }
   .page-accounts .badgesCustom i {
     width: 200px;
     height: 200px;
-    background: url("/static/images/badges/badges-glyph.png/f5cfc7c06abd.png") no-repeat 0 0;
+    background: url("https://www.instagram.com/static/images/badges/badges-glyph.png/f5cfc7c06abd.png") no-repeat 0 0;
     float: right;
     display: inline;
     margin: -10px 0 0 20px; }
@@ -3385,8 +3385,8 @@ body {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .badgeHeader i {
-    background-image: url("/static/images/badges/badges-header-icons@2x.png/ac15295f7f35.png");
+    background-image: url("https://www.instagram.com/static/images/badges/badges-header-icons@2x.png/ac15295f7f35.png");
     background-size: 298px 94px; }
   .badgesCustom i {
-    background-image: url("/static/images/badges/badges-glyph@2x.png/de23d0b083ac.png");
+    background-image: url("https://www.instagram.com/static/images/badges/badges-glyph@2x.png/de23d0b083ac.png");
     background-size: 200px 200px; } }
